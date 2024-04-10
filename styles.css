@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(174, 198, 245);
+    color:azure; /*text color*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+    h5{
+        text-align: center;
+        font-style: italic;
+    }
+    
+a{
+    color:coral
+}
+a:visited{
+    color:darkmagenta
+}
+img{
+    border: 4px solid rgb(28, 132, 236);
+    padding: 33px; /*surrounds the image, then the border surrounds the padding, and then the margin surround the border*/
+    margin: 22px; 
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+.rizz{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: blue;
+font-size: small;
+font-style:italic;
+background-color: coral;
+display: inline;
+color: azure;
